@@ -1,6 +1,5 @@
 def add(a: int, b: int) -> int:
     """
-
     :param a: first number
     :param b: second number
     :return: result of addition of a and b
@@ -10,7 +9,6 @@ def add(a: int, b: int) -> int:
 
 def subtract(a: int, b: int) -> int:
     """
-
     :param a: first number
     :param b: second number
     :return: result of subtraction of b from a
